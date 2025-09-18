@@ -1,0 +1,7 @@
+# Especifica a versão mínima do Bundler
+source "https://rubygems.org"
+
+# Versão do Ruby usada no projeto
+ruby "3.3.4"
+
+gem "terminal-table"
